@@ -4,7 +4,7 @@
 # English
 # Agent301 - Auto Claim Bot
 
-🔗 **Referral Link**: [Agent301](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Referral Link**: [Agent301](https://t.me/Agent301Bot/app?startapp=onetime948720889)
 
 ## 📢 Telegram Group
 
@@ -27,8 +27,8 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/agent301-bot.git
+cd agent301-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Enter you (`query_id=... /user=...`) in file data.txt. Each new token from a new line.
@@ -59,12 +59,12 @@ To change a config file in bash use the command `nano config.json`
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/secretniy/blum-bot.git
+   git clone https://github.com/secretniy/agent301-bot.git
    ```
 
-3. goto blum-bot directory
+3. goto agent301-bot directory
    ```
-   cd blum-bot
+   cd agent301-bot
    ```
 
 4. install the require library
@@ -118,9 +118,9 @@ socks5://user:pass@127.0.0.1:6969
 
 
 # Русский
-# Blum - Автоматический бот
+# Agent301 - Автоматический бот
 
-🔗 **Реферальная ссылка**: [Blum](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Реферальная ссылка**: [Agent301](https://t.me/Agent301Bot/app?startapp=onetime948720889)
 
 ## 📢 Группа в Telegram
 
@@ -143,8 +143,8 @@ socks5://user:pass@127.0.0.1:6969
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/agent301-bot.git
+cd agent301-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Введите (`query_id=... /user=...`) в файл data.txt. Каждый новый токен с новой строки.
@@ -174,12 +174,12 @@ git site : [https://git-scm.com/](https://git-scm.com/)
 
 2. Клонируйте этот репозиторий
 ```shell
-git clone https://github.com/secretniy/blum-bot.git
+git clone https://github.com/secretniy/agent301-bot.git
 ```
 
-3. Перейдите в каталог blum-bot
+3. Перейдите в каталог agent301-bot
 ```
-cd blum-bot
+cd agent301-bot
 ```
 
 4. Установите зависимости
